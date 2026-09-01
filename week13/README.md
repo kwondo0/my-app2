@@ -103,7 +103,7 @@ npm run dev
 - [ ] `/api/debug/env`가 404인지 확인
 - [ ] 검색어에 정규식 특수문자(`.*`, `(a|b)` 등)를 넣어도 에러 없이 "그 문자 그대로" 검색되는지 확인
 - [ ] IDOR 재현(소유권 검사 세 줄 주석 처리) + 원상복구까지 확인
-- [ ] Organization의 `assignments-<학번>/week13/`에 push + 무엇을 어떻게 고쳤는지 짧은 설명 (`.env.local` 제외)
+- [ ] 레포에 push + 무엇을 어떻게 고쳤는지 짧은 설명 (`.env.local` 제외) → submissions-2026에 repo_url · commit_sha · deploy_url PR 제출
 
 ## 슬라이드
 

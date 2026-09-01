@@ -51,7 +51,7 @@ npm run dev
 - [ ] 본인 명의로 MongoDB Atlas 무료 클러스터 생성 + 접속 문자열 발급
 - [ ] `.env.local` 설정 후 로컬에서 게시판이 실제로 동작하는지 확인
 - [ ] 5주차 과제에서 추가한 필드를 `models/Notice.ts` 스키마에도 반영
-- [ ] Organization의 `assignments-<학번>/week06/` 폴더에 push (`.env.local`은 절대 포함하지 말 것) 후 Vercel 배포 링크 제출
+- [ ] 레포에 push (`.env.local`은 절대 포함하지 말 것) → Vercel 배포 → submissions-2026에 repo_url · commit_sha · deploy_url PR 제출
 
 ## 슬라이드
 

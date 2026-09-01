@@ -47,7 +47,7 @@ npm run dev
 - [ ] 저장형 XSS를 재현하고 스크린샷으로 남기기
 - [ ] 시크릿 노출(`/api/debug/env`)을 재현하고 스크린샷으로 남기기
 - [ ] 두 취약점이 각각 어느 파일, 어느 코드 때문에 생기는지 짧게 설명 작성
-- [ ] Organization의 `assignments-<학번>/week12/`에 재현 스크린샷 + 원인 설명 push (`.env.local` 제외, 실제 배포는 하지 않음)
+- [ ] 레포에 재현 스크린샷 + 원인 설명 push (`.env.local` 제외, 실제 배포는 하지 않음) → submissions-2026에 repo_url · commit_sha PR 제출 (이번 주는 배포가 없으므로 deploy_url엔 repo_url을 그대로 적어도 됩니다)
 
 ## 슬라이드
 

@@ -11,10 +11,11 @@
 
 ## 발표 & 제출 방법
 
-1. 팀 레포(`team-<팀명>`)에 최종 코드 push + README에 배포 URL, 담당 역할 표 포함
-2. 팀당 8분 데모 + 발표, 5분 질의응답
-3. 개인 제출란에 포트폴리오 사이트 배포 URL + 기여도 보고서(A4 1장) 제출
-4. `assignments-<학번>/` 레포는 1~14주차 과제가 모두 커밋되어 있는지 최종 점검
+1. 팀 레포(`team-<팀명>` 권장)에 최종 코드 push + README에 배포 URL, 담당 역할 표 포함
+2. [submissions-2026](https://github.com/wss-2026/submissions-2026)에 `submissions/team/팀이름.json`으로 repo_url · commit_sha · deploy_url PR 제출
+3. 팀당 8분 데모 + 발표, 5분 질의응답
+4. 개인 제출란에 포트폴리오 사이트 배포 URL + 기여도 보고서(A4 1장) 제출
+5. submissions-2026에 1~14주차 과제 PR이 모두 올라가 있고 자동채점 결과에 심각한 실패가 없는지 최종 점검
 
 ## 평가에서 특히 보는 것 (12~14주차 보안 유닛 연계)
 

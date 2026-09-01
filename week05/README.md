@@ -49,7 +49,7 @@ npm run dev
 - [ ] 공지사항 게시판에 필드 하나 추가 (예: 조회수, 카테고리 등) — `lib/notices.ts`, 폼, 상세 페이지를 함께 수정
 - [ ] 목록의 `<li>` 항목처럼 컴포넌트 하나를 더 분리해 재사용화 해보기
 - [ ] `feature/week05` 같은 이름으로 브랜치를 만들어 작업 후 PR로 병합해보기
-- [ ] Organization의 `assignments-<학번>/week05/` 폴더에 push 후 Vercel 배포 링크 제출
+- [ ] 레포에 push (`assignments-<학번>` 권장) → Vercel 배포 → submissions-2026에 repo_url · commit_sha · deploy_url PR 제출
 
 ## 슬라이드
 

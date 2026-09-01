@@ -39,7 +39,7 @@ npm run dev
 - [ ] 새 항목을 추가하는 기능 하나 직접 구현 (폼 + Server Action, DB 연동은 6주차에서)
 - [ ] `loading.tsx`가 실제로 보이는지 확인 (delay를 늘려서 테스트해도 좋음)
 - [ ] shadcn/ui Button을 하나 이상 사용해보기
-- [ ] Organization의 `assignments-<학번>/week04/` 폴더에 push 후 Vercel 배포 링크 제출
+- [ ] 레포에 push (`assignments-<학번>` 권장) → Vercel 배포 → submissions-2026에 repo_url · commit_sha · deploy_url PR 제출
 
 ## 슬라이드
 

@@ -84,7 +84,7 @@ npm run dev
 - [ ] `curl -I`나 개발자도구로 보안 헤더(X-Content-Type-Options, X-Frame-Options, Referrer-Policy) 확인
 - [ ] 12~14주차 5종 취약점을 표로 정리 (취약점 이름 · 원인 파일 · 수정 방법)
 - [ ] gitleaks(또는 유사 도구)로 본인 레포를 스캔해보고 결과 기록
-- [ ] Organization의 `assignments-<학번>/week14/`에 push + 5종 취약점 정리표 (`.env.local` 제외)
+- [ ] 레포에 push + 5종 취약점 정리표 (`.env.local` 제외) → submissions-2026에 repo_url · commit_sha · deploy_url PR 제출
 
 ## 슬라이드
 

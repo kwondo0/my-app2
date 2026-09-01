@@ -54,7 +54,7 @@ npm run dev
 - [ ] 로그아웃 상태로 상품을 장바구니에 담고, 수량 변경/삭제까지 확인
 - [ ] 상품 상세 페이지에서 재고보다 많은 수량을 입력해도 실제로는 재고만큼만 담기는지 확인
 - [ ] MongoDB Atlas에서 아무 상품이나 `stock: 0`으로 바꿔 품절 상태(담기 버튼 비활성화)를 확인
-- [ ] Organization의 `assignments-<학번>/week10/` 폴더에 push (`.env.local` 제외) 후 Vercel 배포 링크 제출
+- [ ] 레포에 push (`.env.local` 제외) → Vercel 배포 → submissions-2026에 repo_url · commit_sha · deploy_url PR 제출
 
 ## 슬라이드
 

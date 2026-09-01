@@ -65,5 +65,14 @@ websecprog/
 
 ## 과제/팀프로젝트 제출
 
-과제와 팀프로젝트는 이 레포가 아니라 각자 GitHub Organization 아래의 개인/팀 레포(`assignments-<학번>`, `team-<팀명>`, `portfolio-<학번>`)에 제출합니다.
-이 레포는 강의용 레퍼런스 코드만 담습니다.
+과제와 팀프로젝트 코드는 이 레포가 아니라 각자의 레포에서 관리합니다 — GitHub Organization
+아래의 개인/팀 레포(`assignments-<학번>`, `team-<팀명>`, `portfolio-<학번>`)를 기본으로
+권장하지만, 팀 사정에 따라 팀 자체 조직/개인 계정의 별도 레포를 써도 됩니다. 이 레포는
+강의용 레퍼런스 코드만 담습니다.
+
+**제출은 코드를 어디에 두었든 동일한 방법**으로 합니다: [wss-2026/submissions-2026](https://github.com/wss-2026/submissions-2026)을
+Fork해서 `submissions/weekNN/학번.json`(개인) 또는 `submissions/team/팀이름.json`(팀)
+파일에 `repo_url`(코드 위치) · `commit_sha`(채점받을 커밋) · `deploy_url`(배포 주소)을
+적어 원본 레포로 Pull Request를 보냅니다. merge되면 자동으로 채점됩니다 — 자세한 형식은
+그 레포의 README를 참고하세요. (레포가 private이면 채점 봇 계정을 collaborator로
+초대해야 하므로, 특별한 사정이 없다면 public으로 제출하는 걸 권장합니다.)

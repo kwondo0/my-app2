@@ -75,7 +75,7 @@ npm run dev
 - [ ] 로그아웃 상태로 `/notices/new` 직접 접속 → 로그인 페이지로 자동 리다이렉트되는지 확인
 - [ ] 본인 글 삭제 + 남의 글 삭제 시도 → 본인 글만 지워지고, 다른 계정 글은 삭제 버튼조차 안 보이는지 확인
 - [ ] MongoDB Atlas에서 본인 계정 하나를 `role: "admin"`으로 직접 변경 → 모든 글 삭제 가능한지 확인
-- [ ] Organization의 `assignments-<학번>/week09/` 폴더에 push (`.env.local` 제외) 후 Vercel 배포 링크 제출
+- [ ] 레포에 push (`.env.local` 제외) → Vercel 배포 → submissions-2026에 repo_url · commit_sha · deploy_url PR 제출
 
 ## 슬라이드
 

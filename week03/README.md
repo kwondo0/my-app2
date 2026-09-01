@@ -45,8 +45,8 @@ npm run dev
 - [ ] `create-next-app`으로 나만의 프로젝트 생성 (이름은 자유, 옵션은 위와 동일하게)
 - [ ] `app/about/page.tsx`를 직접 만들어 `/about` 라우트 추가
 - [ ] `useState`를 쓰는 Client Component를 하나 직접 작성 (Counter 참고 가능, 그대로 복붙 금지)
-- [ ] Organization의 `assignments-<학번>/week03/` 폴더에 push
-- [ ] Vercel에 배포하고 배포 URL을 과제 제출란에 함께 제출
+- [ ] 레포에 push (`assignments-<학번>` 권장, 개인 레포도 가능) → Vercel 배포
+- [ ] [submissions-2026](https://github.com/wss-2026/submissions-2026)에 repo_url · commit_sha · deploy_url을 PR로 제출
 
 ## 슬라이드
 

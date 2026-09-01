@@ -62,7 +62,7 @@ npm run dev
 - [ ] 장바구니 → 결제 → 주문 상세까지 전체 흐름 확인 (결제 후 장바구니가 비는지 포함)
 - [ ] 다른 계정으로 로그인해 남의 주문 id로 `/orders/<id>` 직접 접근 시도 → 404 확인
 - [ ] 주문 후 MongoDB Atlas에서 해당 상품의 `stock` 값이 실제로 줄었는지 확인
-- [ ] Organization의 `assignments-<학번>/week11/` 폴더에 push (`.env.local` 제외) 후 Vercel 배포 링크 제출
+- [ ] 레포에 push (`.env.local` 제외) → Vercel 배포 → submissions-2026에 repo_url · commit_sha · deploy_url PR 제출
 
 ## 슬라이드
 

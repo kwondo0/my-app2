@@ -53,7 +53,7 @@ npm run dev
 - [ ] 본인 배포 환경에서 회원가입 → 로그인 → 로그아웃 전체 흐름 확인
 - [ ] `npx auth secret`으로 `AUTH_SECRET` 발급 후 `.env.local`에 반영
 - [ ] 일부러 틀린 비밀번호로 로그인 시도해 `/login?error=1` 처리가 되는지 확인
-- [ ] Organization의 `assignments-<학번>/week07/` 폴더에 push (`.env.local` 제외) 후 Vercel 배포 링크 제출
+- [ ] 레포에 push (`.env.local` 제외) → Vercel 배포 → submissions-2026에 repo_url · commit_sha · deploy_url PR 제출
 
 ## 슬라이드
 
