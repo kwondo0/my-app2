@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <main className="flex flex-1 w-full max-w-2xl flex-col items-center justify-center gap-8 py-24 px-8 text-center">
-        <span className="rounded-full bg-black/[.06] px-3 py-1 text-xs font-medium tracking-wide text-zinc-600 dark:bg-white/[.08] dark:text-zinc-300">
+        <span className="rounded-full bg-black/6 px-3 py-1 text-xs font-medium tracking-wide text-zinc-600 dark:bg-white/8 dark:text-zinc-300">
           Server Component
         </span>
 
